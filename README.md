@@ -1,7 +1,7 @@
 # Hi everyone 👋
 
 
-- 🔭 Software engineer, working as a Sr. Salesforce Consultant at Numerix.
+- 🔭 Software engineer, working as a Sr. Salesforce Consultant at Numerix, CSV expert (Lyphon)
 - 💬 Ask me about software, techStartups and healthtech.
 - 📫 How to reach me:
   `mohamedelmouki0@gmail.com`
